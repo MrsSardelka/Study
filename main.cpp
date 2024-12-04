@@ -1,4 +1,8 @@
 #include "sdt.h"
-int main() {
-    return 0;
-}
+#include <iostream>
+using namespace std;
+int main()
+{ int a, b;
+cout << "¬ведите два числа: ";
+ cin >> a >> b;
+ return 0; }
